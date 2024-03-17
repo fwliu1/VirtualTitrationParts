@@ -10,7 +10,7 @@ Remainder of the electronic parts and setup can be found in the: Virtual Titrati
 Software for the virtual titration experiment can be found here: https://github.com/fwliu1/VirtualTitrationBuild
 
 
-Credit: These experiences were designed by Charles Amador and Frank Liu at the Meteor Studio. Highschoolers at Lumos Art Academy helped redesign the burette base.
+Credit: These experiences were designed by Charles Amador and Frank Liu at the [Meteor Studio](https://meteor.ame.asu.edu/). Highschoolers at Lumos Art Academy helped redesign the burette base. Thank you to Karl Ernsberger for supporting these students!
 
 ## License
 <!-- Released under the [MIT license](LICENSE). -->
